@@ -29,6 +29,7 @@ An advanced React-based calculator with smooth transitions, history tracking, an
   &nbsp;
   <img src="public/dark.png" alt="Dark Mode" width="45%"/>
 </p>
+---
 ## 📂 Project Structure
 ---
 ```
