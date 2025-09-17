@@ -24,11 +24,9 @@ An advanced React-based calculator with smooth transitions, history tracking, an
 
 ---
 ## 🖼️ Screenshots
-<p align="center">
-  <img src="public/light.png" alt="Light Mode" width="45%"/>
-  &nbsp;
-  <img src="public/dark.png" alt="Dark Mode" width="45%"/>
-</p>
+| Light Mode ☀️ | Dark Mode 🌙 |
+|------------|-----------|
+| ![Light Mode](public/light.png) | ![Dark Mode](public/dark.png) |
 ---
 ## 📂 Project Structure
 ---
