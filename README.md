@@ -3,7 +3,12 @@
 An advanced React-based calculator with smooth transitions, history tracking, and a beautiful dark/light mode toggle. Built with **Vite** and deployed to **GitHub Pages**.
 
 ---
-
+## 🛠️ Tech Stack
+- **React 19**
+- **Vite 7**
+- **Math.js** for expression evaluation
+- **CSS3** for custom theming & transitions
+- **GitHub Pages** for deployment
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-QuantumCalc-blue?style=for-the-badge)](https://KailashSatkuri-warangal.github.io/QuantumCalc/)
 
 
@@ -18,9 +23,14 @@ An advanced React-based calculator with smooth transitions, history tracking, an
 - 🧮 Safe math evaluation using **mathjs**
 
 ---
+## 🖼️ Screenshots
+### Light Mode ☀️
+![Light Mode Screenshot](public/light.png)
 
+### Dark Mode 🌙
+![Dark Mode Screenshot](public/dark.png)
 ## 📂 Project Structure
-
+---
 ```
 QuantumCalc/
 ├─ dist/               # Production build (auto-deployed)
@@ -113,4 +123,4 @@ npm run deploy
 
 ---
 
-If you want, I can add: screenshots (light/dark), a CI workflow for auto-deploy, or a short demo GIF. Tell me which and I’ll add them into this canvas README.
+✨ QuantumCalc – A modern, stylish, and responsive calculator app! ✨
